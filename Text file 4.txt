@@ -1,1 +1,6 @@
 Anna decided to create completley new text file. 
+<<<<<<< .merge_file_a19452
+Ben would like to enter some changes to this file. 
+=======
+Anna would like to add some changes into this file. 
+>>>>>>> .merge_file_a17260
