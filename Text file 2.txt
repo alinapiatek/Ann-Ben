@@ -4,3 +4,8 @@ Ann was here!!!Ben was here!!!
 Let's talk about creating new game - Anna's suggestion 
 Grubasek kutas-> Anna's comment 
 New comment made by Ben
+<<<<<<< HEAD
+Ben wanted to add some comments!!!
+=======
+Anna wanted to add some comments!!!
+>>>>>>> f7faea4424f9335675a184fe832e7807e7c58b3b
