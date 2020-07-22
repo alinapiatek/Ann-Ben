@@ -6,3 +6,4 @@ This is a second line in the file
 test 1
 I'm Ben!!!
 Ann wants to go ahead
+Ben just added one more line to file 1
