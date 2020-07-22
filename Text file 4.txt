@@ -1,1 +1,2 @@
 Anna decided to create completley new text file. 
+Ben would like to enter some changes to this file. 
