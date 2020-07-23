@@ -1,1 +1,6 @@
 Bla bla bla
+<<<<<<< HEAD
+Ben's second line in this file 
+=======
+Anna added new second line 
+>>>>>>> 301d7c993d405bb8013ce0a91215a5815f501b87
